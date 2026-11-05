@@ -1,0 +1,7 @@
+
+ultralytics
+opencv-python
+psycopg2-binary
+Flask
+flask-cors
+python-dotenv
